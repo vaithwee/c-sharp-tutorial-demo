@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariableDefinition", "VariableDefinition.csproj", "{777F4828-2C4C-4142-A8A4-5958D6014888}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{777F4828-2C4C-4142-A8A4-5958D6014888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{777F4828-2C4C-4142-A8A4-5958D6014888}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{777F4828-2C4C-4142-A8A4-5958D6014888}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{777F4828-2C4C-4142-A8A4-5958D6014888}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
