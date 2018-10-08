@@ -1,0 +1,11 @@
+logging info:
+
+temparature: 100
+ pressure: 12
+/nMessage: 0. k
+logging info:
+
+temparature: 100
+ pressure: 12
+
+Message: 0. k
